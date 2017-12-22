@@ -1,6 +1,6 @@
 # Not include files.
 
-neta-suggestor/bin/
-neta-suggestor/obj/
+BarcodeSample/bin/
+BarcodeSample/obj/
 .vs/
 
